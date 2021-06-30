@@ -1,0 +1,26 @@
+*{
+    padding: 50;
+    margin: 10;
+}
+
+.heading{
+    text-align: center;
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.mylogin{
+    margin-top: 160px;
+    margin-left: 500px;
+}
+#LoginButton{
+   margin-left: 25px;
+}
+
+.loginfooter{
+    background-color: black;
+    padding: 100;
+    color: white;
+    height: 2em;
+    margin-top: 250px;
+    text-align: center;
+}
